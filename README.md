@@ -1,0 +1,2 @@
+# EcoBot
+2026/2027 COEN/ELEC 490 Project 
